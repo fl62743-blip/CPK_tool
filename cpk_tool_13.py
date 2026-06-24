@@ -16,7 +16,7 @@ from reportlab.lib.utils import ImageReader
 # ===============================
 st.set_page_config(layout="wide")
 
-st.title("🏭 SPC CPK Tool - Production Version")
+st.title("🏭 CPK_tool_IPD_Forever")
 st.markdown("### CPK_Tool_AGS_Quality_First")
 
 # ===============================
